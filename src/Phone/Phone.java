@@ -3,8 +3,8 @@ package Phone;
 class Phone {
 	String no;
 
-	//		String gettel(String to) {
-	//			this.no = to;
+	//		String gettel(String no) {
+	//			this.no = no;
 	//			return no;
 	//		}
 
